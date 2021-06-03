@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The clothiers delight: or, The rich mens joy, and the poor mens sorrow. Wherein is exprest the craftiness and subtilty of many clothiers in England, by beating down their work-mens wages. Combers, weavers, and spinners, for little gains, doth earn their money by taking of hard pains. To the tune of, Ienny come tye me, &amp;c. Packington's pound, or, Monk hath confounded, &amp;c. With allowance, Ro. L'Estrange. / By T. Lanfiere.</title>
+            <author>Lanfiere, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25633</idno><idno type="EEBO-CITATION">99888119</idno>
+  <idno type="VID">193177</idno>
+  <idno type="EEBO-PROQUEST">2240884855</idno>
+  
+            <idno type="STC">Wing L354</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[35]</idno>
+            <idno type="STC">ESTC R229039</idno>
+            <idno type="PROQUEST">ocm99888119</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888119e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193177)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The clothiers delight: or, The rich mens joy, and the poor mens sorrow. Wherein is exprest the craftiness and subtilty of many clothiers in England, by beating down their work-mens wages. Combers, weavers, and spinners, for little gains, doth earn their money by taking of hard pains. To the tune of, Ienny come tye me, &amp;c. Packington's pound, or, Monk hath confounded, &amp;c. With allowance, Ro. L'Estrange. / By T. Lanfiere.</title>
+                  <author>Lanfiere, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD.</note>
+                  <note>Verse: "Of all sorts of callings that in England be,".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clothing-workers --  England --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193177:1"/>
+            <head>
+               <hi>The Clothiers Delight: <hi>OR,</hi>
+               </hi> The Rich Mens Joy, and the Poor Mens Sorrow. Wherein is exprest the craftiness and subtilty of many Clothiers in <hi>England,</hi> by beating down their Work-mens wages.</head>
+            <argument>
+               <l>Combers, Weavers, and Spinners, for little gains,</l>
+               <l>Doth Earn their money by taking of hard pains.</l>
+            </argument>
+            <opener>To the Tune of, <hi>Ienny come tye me,</hi> &amp;c. <hi>Packington's Pound,</hi> Or, <hi>Monk hath confounded, &amp;c.</hi>
+            </opener>
+            <byline>By <hi>T. Lanfi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re.</hi>
+            </byline>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <signed>Ro. L'Estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>OF all sorts of callings that in <hi>England</hi> be,</l>
+               <l>There is none that liveth so gallant as we;</l>
+               <l>Our Trading maintains us as brave as a Knight,</l>
+               <l>We live at our pleasure, and taketh delight:</l>
+               <l>We heapeth up riches and treasure great store,</l>
+               <l>Which we get by griping and grinding the poor,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And this is a way for to fill up our purse,</hi>
+                  </l>
+                  <l>
+                     <hi>Although we do get it with many a Curse.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Throughout the whole Kingdom in Country and Town:</l>
+               <l>There is no danger of our Trade going down,</l>
+               <l>So long as the Comber can work with his Comb,</l>
+               <l>And also the Weaver weave in his Lomb:</l>
+               <l>The Tucker and Spinner that spins all the year,</l>
+               <l>We will make them to earn their wages full dear;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Informer ages we us'd to give,</l>
+               <l>So that our Work-folks like Farmers did live;</l>
+               <l>But the times are altered, we will make them know,</l>
+               <l>All we can for to bring them all under our Bow:</l>
+               <l>We will make them ta work hard for Six-pence a day,</l>
+               <l>Though a shilling they deserve if they had their just pay:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And first for the Combers we will bring them down,</l>
+               <l>From Eight-groats a score unto Half a Crown:</l>
+               <l>I at all they murmer, and say 'tis too small,</l>
+               <l>We bid them chose whether they will work at all.</l>
+               <l>We'l make them believe that Trading is bad,</l>
+               <l>We care not a pin, though they are ne'r so sad:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We'l make the poor Weavers work at a low rate,</l>
+               <l>We'l find fault where's no fault, and so we will bate:</l>
+               <l>If Trading grows dead we will presently shew it,</l>
+               <l>But if it grows good they shall never know it:</l>
+               <l>We'l tell them that Cloath beyond-Sea will not go,</l>
+               <l>We care not whether we keep cloathing or no:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then next for the Spinners we shall ensue,</l>
+               <l>We'l make them spin three pound instead of two;</l>
+               <l>When they bring home their work unto us, they complain</l>
+               <l>And say that their wages will not them maintain:</l>
+               <l>But if that an Ounce of weight th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> do lack,</l>
+               <l>Then for to bate three pence we will not be slack:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is he way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <pb facs="tcp:193177:1"/>
+               <l>But if it holds weight, then their wages they crave,</l>
+               <l>We have got no money, and what's that you'd have?</l>
+               <l>We have Bread and Bacon, and Butter that's good,</l>
+               <l>With Out-meal and Salt that is wholesome for food;</l>
+               <l>We have Sope and Candles whereby to give light,</l>
+               <l>That you may work by them so long as you have sight:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We will make the Tucker and Shereman understand,</l>
+               <l>That they with their wages shall never buy Land:</l>
+               <l>Though heretofo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e they have been lofty and high,</l>
+               <l>Yet now we will make them submit humbly;</l>
+               <l>We will lighten their wages as low as may be,</l>
+               <l>We will keep them under in every degree:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When we go to Market our work-men are glad,</l>
+               <l>But when we come home then we do look sad,</l>
+               <l>We sit in the corner as if our hearts did ake,</l>
+               <l>We tell them 'tis not a penny we can take:</l>
+               <l>We plead poverty before we have need,</l>
+               <l>And thus we do coaks them most bravely indeed:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But if to an Ale-house they Customers be,</l>
+               <l>Then presently with the Ale-wife we agree,</l>
+               <l>When we come to a reckoning, then we do crave</l>
+               <l>Two-pence on a Shilling, and that we will have;</l>
+               <l>By such cunning ways we our treasure do get,</l>
+               <l>For it is all Fish that doth come to our Net:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and this is the way, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And thus we do gain all our Wealth and Estate,</l>
+               <l>By many poor men that works early and late;</l>
+               <l>If it were not for those that do labour full hard,</l>
+               <l>We might go and hang our selves without regard:</l>
+               <l>The Combers, and Weavers, and Tuckers also,</l>
+               <l>With the Spinners that worketh for Wages full low:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>By these peoples labours we fill up our purse, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then hey for the Cloathing-trade, it goes on brave,</l>
+               <l>We scorn for to toyl and moyl, nor yet to slave;</l>
+               <l>Our Work-men do work hard, but we live at ease,</l>
+               <l>We go when we will, and come when we please:</l>
+               <l>We hoard up our bags of silver and Gold,</l>
+               <l>But conscience and charity with us is cold:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>By poor peoples labour we fill up our purse,</hi>
+                  </l>
+                  <l>
+                     <hi>Although we do get it with many a curse.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke</p>
+         </div>
+      </back>
+   </text>
+</TEI>
